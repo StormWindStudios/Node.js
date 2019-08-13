@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "nodecourse",
+    "password": "password",
+    "database": "student_app",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "nodecourse",
+    "password": "password",
+    "database": "student_app",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "nodecourse",
+    "password": "password",
+    "database": "student_app",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
